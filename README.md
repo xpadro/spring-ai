@@ -7,9 +7,9 @@ Samples based on Spring AI framework
 
 # Table of Contents
 1. [Setup](#1-setup)
-2. [Text Generation](#1-text-generation)
+2. [Text Generation](#2-text-generation)
 
-    2.1 [Chat Completion Intro](#11-chat-completion-intro)
+    2.1 [Chat Completion Intro](#21-chat-completion-intro)
 
 
 <br />
