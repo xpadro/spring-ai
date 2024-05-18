@@ -8,20 +8,18 @@
 		<version>3.2.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>com.xpadro.ai</groupId>
 	<artifactId>chat-completion-intro</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chat-completion-intro</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring AI Chat Completion API basic sample</description>
+
 	<properties>
 		<java.version>21</java.version>
 		<spring-ai.version>0.8.1</spring-ai.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.ai</groupId>
 			<artifactId>spring-ai-openai-spring-boot-starter</artifactId>
