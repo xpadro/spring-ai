@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: chat-completion-conversation
+  ai:
+    openai:
+      api-key: ${OPEN_AI_TOKEN}
